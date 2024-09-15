@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f5c2af;
+}
+.tamano_formulario{
+    width: 500px;
+    margin:10px auto;
+    border:white 3px solid;
+    padding:20px;
+}
+.pad{
+    padding:20px;
+}
+.pg2{
+    background-color: white;
+}
+.logoSize{
+    width: 60px;
+}
+.color_nav{
+    background-color: coral;
+}
+.size2{
+    padding:20px;
+    width: 800px;
+    border:red 2px solid;
+    margin:10px auto;
+}
+.logoMp{
+    width: 100px;
+}
+.colorLetra{
+    color:green;
+
+}
